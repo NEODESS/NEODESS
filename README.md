@@ -15,7 +15,7 @@ Hola, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 🌎 **Vivo en**: **Colombia**  
 🖥️ **Portafolio**: Descubre mi trabajo en [**DanielDev**](#)  
-📬 **Correo**: Escríbeme a [daniel@example.com](Danielrlorduy@gmail.com)  
+📬 **Correo**: Escríbeme a [danielrloduy@gmail.com](Danielrlorduy@gmail.com)  
 💡 **En proyecto**: Actualmente trabajando en mi **SideProject**  
 📚 **Aprendiendo**: Sumergido en el mundo de **Astro**
 
