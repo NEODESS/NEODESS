@@ -14,10 +14,10 @@ Hola, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 
 🌎 **Vivo en**: **Colombia**  
-🖥️ **Portafolio**: Descubre mi trabajo en [**DanielDev**](#)  
-📬 **Correo**: Escríbeme a [daniel@example.com](mailto:daniel@example.com)  
-💡 **En proyecto**: Actualmente trabajando en mi **SideProject**  
-📚 **Aprendiendo**: Sumergido en el mundo de **Flutter**
+🖥️ **Portafolio**: Descubre mi trabajo en 
+📬 **Correo**: Escríbeme a danielrlorduy@gmail.com
+💡 **En proyecto**: Actualmente trabajando en mi 
+📚 **Aprendiendo**: Sumergido en el mundo de 
 
 --
 ## 💻 **Lo que sé hacer (por ahora...):**
