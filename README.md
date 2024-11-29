@@ -33,10 +33,9 @@ Hola, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   `import requests` →  Python lo hace todo por mí. Yo solo me aseguro de que no se rompa… a veces.
 ---
 
-## 🌍 **Conectemos (¡no soy un robot, prometido!):**  
-- **GitHub:** [@tuusuario](https://github.com/tuusuario)  
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
-- **LinkedIn:** [tuusuario](https://linkedin.com/in/tuusuario)
+## 🌍 **Conectemos (¡no soy un robot, prometido!):** 
+- **Twitter:** https://x.com/DanielRodr33391
+- **LinkedIn:** www.linkedin.com/in/daniel-rodriguez-lorduy
 
 
 <h1>Thank You! 🤵 </h1>
