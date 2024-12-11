@@ -23,7 +23,7 @@ Hola, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="right" width="60" height="60"/> </a>
 
 🌎 **Vivo en**: **Colombia**  
-🖥️ **Portafolio**: Descubre mi trabajo en [**[DanielDev](https://danielrldev.netlify.app/)**](#)  
+🖥️ **Portafolio**: Descubre mi trabajo en [**[DanielDev](https://danielrldev.netlify.app/)**]  
 📬 **Correo**: Escríbeme a [danielrloduy@gmail.com](Danielrlorduy@gmail.com)  
 💡 **En proyecto**: Actualmente trabajando en mi **SideProject**  
 📚 **Aprendiendo**: Sumergido en el mundo de **Astro**
